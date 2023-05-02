@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+   <category>
+      <pattern>ACADEMICS</pattern>
+      <template> 
+         <system>start "https://iem.edu.in/"</system> 
+    </template>
+    </category>      
+
+   <category>
+      <pattern>UNDERGRADUATE PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link:
+     https://iem.edu.in/ 
+ 
+</template>
+    </category>      
+
+   <category>
+      <pattern>UG PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the 
+     Link: https://iem.edu.in/
+ 
+</template>
+    </category>
+
+   <category>
+      <pattern>POSTGRADUATE PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the 
+
+    Link: https://iem.edu.in/
+</template>
+    </category>      
+
+
+   <category>
+      <pattern>PG PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the 
+
+    Link: https://iem.edu.in/
+</template>
+    </category>      
+  
+
+      <category>
+      <pattern>Principle's View</pattern>
+    <template> 
+		Link: https://iem.edu.in/
+</template>
+    </category>      
+   <category>
+      <pattern>Management Details</pattern>
+    <template> To know about the members of the management team
+	         Follow the link
+ 
+		Link: https://iem.edu.in/
+
+</template>
+    </category>
+   
+      
+<category>
+      <pattern>CENTRAL LIBRARY</pattern>
+    <template> Central Library
+
+IEM 24x7x365 Digital Library
+
+Open Access System
+Libsys Software
+LSEase Enterprise Edition with unlimited collection Web OPAC
+7014 Titles
+Adequate No. of National and International Journals
+Subscription to online journals IEEE Xplore (ASPP), JGATE, Delnet
+More than 2500 e-journals
+Feedback based upgradation on yearly basis
+Digital Library facilities with adequate no. of Computers
+24×7 Reading Room
+Reprography and Internet Facilities.
+All departments have departmental libraries.
+  
+ To know more please follow the link given below:
+
+Link: https://iem.edu.in/
+
+</template>
+    </category>  
+
+
+
+<category>
+<pattern>ACADEMIC CALENDAR BE</pattern>
+<template> You can get the academic calendar for BE from the link given below: 
+https://iem.edu.in/
+
+</template>
+</category>
+
+</aiml>

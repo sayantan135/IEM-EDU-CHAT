@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Sayantan135/Chatbot-using-AIML">
-    <img src="https://w7.pngwing.com/pngs/695/247/png-transparent-chatbot-logo-robotics-robot-electronics-leaf-logo-thumbnail.png" alt="Logo" width="80" height="80">
+    <img src="https://www.kindpng.com/picc/m/179-1798038_chatbots-builder-pricing-crozdesk-free-chatbot-hd-png.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">An academic-based chatbot where you can extract information about a particular sections like result, department, course, library as well as info about faculty, etc</h3>
@@ -127,9 +127,9 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Sayantan135/
 ## Authors
 
 * **Sayantan Pal** - *Computer Science Engineering student* - [Sayantan Pal](https://github.com/sayantan135) - *Project Admin*
-* **Subhedeep Tewary** - *Computer Science Engineering studen* - [Subhedeep Tewary](https://github.com/SubhadeepTewary) - *Frontend*
-* **Abhishek Raut** - *Computer Science Engineering studen* - [Abhishek Raut](https://github.com/abhishek10200) - *Backend*
-* **Souparna Das** - *Computer Science Engineering studen* - [Souparna Das](https://github.com/souparnadas) - *Backend*
+* **Subhedeep Tewary** - *Computer Science Engineering student* - [Subhedeep Tewary](https://github.com/SubhadeepTewary) - *Frontend*
+* **Abhishek Raut** - *Computer Science Engineering student* - [Abhishek Raut](https://github.com/abhishek10200) - *Backend*
+* **Souparna Das** - *Computer Science Engineering student* - [Souparna Das](https://github.com/souparnadas) - *Backend*
 
 ## Acknowledgements
 

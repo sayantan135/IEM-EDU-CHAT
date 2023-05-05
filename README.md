@@ -41,15 +41,14 @@
 
 ![Screen Shot](demo.jpeg)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+This is the user interface of this chatbot appliaction as you can see you write command the chatbot it gives us required results. 
 
-Here's why:
+Th features of this chatbot are:
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Very easy to use
+* All at one place
+* You don't need need to surf all over the institute website to find the 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
@@ -59,40 +58,32 @@ This project is built using the Flask and AIML (Artificial Intelligence Markup L
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow this steps to set up the project locally in your device.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* npm
+* Flask
 
 ```sh
-npm install npm@latest -g
+pip install Flask
 ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
+1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/Sayantan135/Chatbot-using-AIML.git
 ```
 
-3. Install NPM packages
+3. Run the app.py file
 
 ```sh
-npm install
+python app.py
 ```
 
-4. Enter your API in `config.js`
-
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
 
 ## Usage
 

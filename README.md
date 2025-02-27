@@ -127,4 +127,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Sayantan135/
 * [Sayantan Pal](https://github.com/sayantan135/)
 * [Shubhadeep Tewary](https://github.com/SubhadeepTewary)
 * [Abhishek Raut](https://github.com/abhishek10200/)
-* [Souprna Das](https://github.com/souparnadas)
+* [Souparna Das](https://github.com/souparnadas)
